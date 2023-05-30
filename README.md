@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211103.001 V13.0.12.0.SGCMIXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: spes
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211103.001
+- incremental: V13.0.12.0.SGCMIXM
+- tags: release-keys
+- fingerprint: Redmi/spes/spes:12/SKQ1.211103.001/V13.0.12.0.SGCMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.211103.001-V13.0.12.0.SGCMIXM-release-keys
+- repo: redmi_spes_dump
